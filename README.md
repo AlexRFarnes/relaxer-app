@@ -14,13 +14,13 @@
 
 ## General info
 
-Implementation of a relaxation app using CSS animation and JavaScript to time additional animations. JavaScript manipulates the DOM to add classes that target certain animations timed accordingly to the relaxation app.
+Implementation of a relaxation app using CSS animation and JavaScript to time animations. JavaScript manipulates the DOM to add classes that target certain animations timed accordingly to the relaxation app.
 
 ## Screenshots
 
 ![Screenshot]()
 
-[Demo](https://happy-volhard-6eee37.netlify.app/)
+[Demo](https://angry-bhaskara-92bb28.netlify.app)
 
 ## Built With
 
@@ -37,7 +37,7 @@ List of features ready and TODOs for future development
 
 ## Status
 
-Project is: _currently working on it_.
+Project is: _finished_.
 
 ## Inspiration
 
