@@ -18,7 +18,7 @@ Implementation of a relaxation app using CSS animation and JavaScript to time an
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/112927249-4a49fb00-9147-11eb-849b-75388cf5e8f7.png)
 
 [Demo](https://angry-bhaskara-92bb28.netlify.app)
 
